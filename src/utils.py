@@ -1,0 +1,1 @@
+def parse_money_any(v): return float(str(v).replace('.','').replace(',','.'))
